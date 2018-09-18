@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mision3</string>
+    <string name="labelSchool">Facultad de Artes</string>
+    <string name="labelWebLink">www.fdartesnextu.com</string>
+    <array name="intrument_type">
+        <item>Cuerda</item>
+        <item>Percusión</item>
+        <item>Viento</item>
+        <item>Eléctrico</item>
+    </array>
+    <array name="instrument_info">
+        <item>Los instrumentos de cuerda o cordófonos son instrumentos musicales que producen sonidos por medio de las vibraciones de una o más cuerdas, usualmente amplificadas por medio de una caja de resonancia. Estas cuerdas están tensadas entre dos puntos del instrumento y se hacen sonar pulsando, frotando o percutiendo la cuerda.</item>
+        <item>Un instrumento de percusión es un tipo de instrumento musical cuyo sonido se origina al ser golpeado o agitado. Es quizá, la forma más antigua de instrumento musical. La percusión se distingue por la variedad de timbres que es capaz de producir y por su facilidad de adaptación con otros instrumentos musicales</item>
+        <item>En cuanto a los aerófonos de metal, producen un sonido de timbre fuerte. En este caso, el músico hace vibrar sus labios en una boquilla que genera la frecuencia acústica. Entre los aerófonos de metal podemos nombrar a la trompeta, la tuba y el trombón.</item>
+        <item>Un instrumento musical eléctrico es uno en el cual el uso de aparatos eléctricos determina o afecta el sonido producido por un instrumento."Electric Musical Instruments." (Los Instrumentos Musicales eléctricos.). Esto es también conocido como un instrumento musical amplificado debido a la utilización común de un amplificador electrónico del instrumento para proyectar el sonido pretendido como determinado por señales electrónicas del instrumento mecánico</item>
+    </array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+</resources>
