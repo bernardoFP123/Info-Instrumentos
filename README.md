@@ -1,0 +1,1 @@
+"Aplicaci¢n con dos fragmentos. Un fragmento es un men£ para seleccionar el tipo de instrumento y el otro muestr ala informaci¢n. Se muestran los dos fragmentos en la pantalla cuando la pantalla es grande o cuando el dispositivo est  en orientaci¢n horizontal. Se muestra un solo fragmento cuando la pantalla es peque¤a." 
